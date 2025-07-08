@@ -41,7 +41,7 @@ Os dados são oriundos do Cadastro Único e consolidam informações relevantes 
 Foi realizada uma pesquisa sobre diversos dados e fontes, e o mais interessante para o momento foi este csv contendo o indice de pobreza no Brasil. Foi realizado o dowload pelo kaagle, mas para que fique mais fácil, realizei o upload dele aqui no prórpio github
 
 
-5.Relatório de insights baseado na análise exploratória.
+5. Relatório de insights baseado na análise exploratória.
 Resumo dos principais achados da análise
 Evolução Estável, mas Persistente da Pobreza
 Ao longo do período analisado, o número absoluto de pessoas em situação de pobreza e extrema pobreza se manteve alto, com pequenas variações. Não houve uma redução estrutural expressiva, indicando a permanência do problema ao longo de diferentes governos e contextos econômicos.
@@ -71,3 +71,8 @@ População total em extrema pobreza e total de famílias em pobreza.
 
 Índices de vulnerabilidade e indicadores populacionais dos grupos tradicionais.
 Ou seja, o aumento da pobreza tende a afetar múltiplas dimensões ao mesmo tempo, incluindo núcleos familiares e grupos étnicos.
+
+
+6. Looker  Studio
+Gráfico foi realizado a partir das abordagens da extrema pobreza das famílias e também dos indígenas, quilombolas e ciganos no Brasil.
+foi utilizado o score card para verificar informações totais, gráficos de linhas e de colunas para uma verificação fácil e intuitiva
