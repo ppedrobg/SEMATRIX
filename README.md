@@ -74,5 +74,6 @@ Ou seja, o aumento da pobreza tende a afetar múltiplas dimensões ao mesmo temp
 
 
 6. Looker  Studio
+Subi o gráfico do Looker através de um PDF
 Gráfico foi realizado a partir das abordagens da extrema pobreza das famílias e também dos indígenas, quilombolas e ciganos no Brasil.
 foi utilizado o score card para verificar informações totais, gráficos de linhas e de colunas para uma verificação fácil e intuitiva
